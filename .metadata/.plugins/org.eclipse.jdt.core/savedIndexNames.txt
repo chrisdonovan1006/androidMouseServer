@@ -1,0 +1,18 @@
+INDEX VERSION 1.126+C:\Users\Christopher\Documents\GitHub\androidMouseServer\.metadata\.plugins\org.eclipse.jdt.core
+4181233772.index
+210560833.index
+2726964725.index
+1205122431.index
+2078107449.index
+4104699253.index
+1676156536.index
+68202497.index
+2572623238.index
+3187686134.index
+1987936780.index
+3567522596.index
+3539130431.index
+1320121564.index
+4132158591.index
+1950770782.index
+727632652.index
